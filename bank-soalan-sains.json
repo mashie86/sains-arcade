@@ -1,0 +1,3833 @@
+[
+  {
+    "t": "Kadar tindak balas",
+    "q": "Reaktor perlu menghasilkan gas dengan lebih cepat. Pilih perubahan terbaik.",
+    "d": "Dua sampel kalsium karbonat mempunyai jisim yang sama. Asid, suhu dan isipadu juga sama.",
+    "a": [
+      "Gunakan ketulan lebih besar",
+      "Gunakan serbuk halus",
+      "Kurangkan suhu",
+      "Cairkan asid"
+    ],
+    "c": 1,
+    "h": "Fikirkan luas permukaan yang bersentuhan dengan asid.",
+    "e": "Serbuk mempunyai jumlah luas permukaan terdedah yang lebih besar berbanding ketulan dengan jisim yang sama. Oleh itu tindak balas dengan asid berlaku lebih cepat apabila faktor lain dikekalkan.",
+    "id": "SN001",
+    "form": 5,
+    "sp": "4.2.1",
+    "pdfPage": 143,
+    "chapter": 4
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Berapakah laju purata robot pemeriksa?",
+    "d": "Robot bergerak sejauh 150 m dalam 30 s.",
+    "a": [
+      "0.2 m/s",
+      "5 m/s",
+      "120 m/s",
+      "4500 m/s"
+    ],
+    "c": 1,
+    "h": "Laju purata = jumlah jarak ÷ jumlah masa.",
+    "e": "150 ÷ 30 = 5 m/s. Laju purata menggunakan jumlah jarak dan jumlah masa.",
+    "id": "SN002",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "chapter": 11
+  },
+  {
+    "t": "Genetik",
+    "q": "Dalam model pewarisan ini, apakah kebarangkalian anak mempunyai genotip aa?",
+    "d": "Kedua-dua induk mempunyai genotip Aa. Setiap induk menyumbang satu alel secara rawak.",
+    "a": [
+      "0%",
+      "25%",
+      "50%",
+      "100%"
+    ],
+    "c": 1,
+    "h": "Senaraikan empat gabungan dalam petak Punnett.",
+    "e": "Gabungan ialah AA, Aa, Aa dan aa. Satu daripada empat ialah aa, jadi kebarangkalian ialah 25%.",
+    "id": "SN003",
+    "form": 4,
+    "sp": "5.2.2",
+    "pdfPage": 77,
+    "chapter": 5
+  },
+  {
+    "t": "Mikroorganisma",
+    "q": "Mengapakah penyejukan membantu melambatkan kerosakan makanan?",
+    "d": "Makanan disimpan pada suhu peti sejuk, bukan dibekukan atau disterilkan.",
+    "a": [
+      "Semua bakteria terbunuh serta-merta",
+      "Makanan kehilangan semua air",
+      "Aktiviti dan pembiakan banyak mikroorganisma menjadi lebih perlahan",
+      "Semua toksin hilang"
+    ],
+    "c": 2,
+    "h": "Suhu rendah memperlahankan proses biologi, tetapi tidak mensterilkan makanan.",
+    "e": "Suhu rendah memperlahankan aktiviti dan pembiakan banyak mikroorganisma. Penyejukan tidak membunuh semua mikroorganisma.",
+    "id": "SN004",
+    "form": 5,
+    "sp": "1.1.3",
+    "pdfPage": 122,
+    "chapter": 1
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Apakah pecutan troli?",
+    "d": "Halaju meningkat secara seragam daripada 2 m/s kepada 10 m/s dalam 4 s.",
+    "a": [
+      "2 m/s²",
+      "3 m/s²",
+      "8 m/s²",
+      "32 m/s²"
+    ],
+    "c": 0,
+    "h": "Pecutan = perubahan halaju ÷ masa.",
+    "e": "(10 − 2) ÷ 4 = 2 m/s². Gunakan perubahan halaju, bukan halaju akhir sahaja.",
+    "id": "SN005",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "chapter": 11
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Pasukan menguji kesan suhu. Pemboleh ubah manakah dimanipulasikan?",
+    "d": "Kepekatan asid, isipadu asid dan jisim logam dikekalkan. Suhu ditetapkan pada 25°C, 35°C dan 45°C.",
+    "a": [
+      "Jisim logam",
+      "Kepekatan asid",
+      "Isipadu asid",
+      "Suhu campuran"
+    ],
+    "c": 3,
+    "h": "Cari faktor yang sengaja diubah oleh penyiasat.",
+    "e": "Suhu ialah pemboleh ubah dimanipulasikan. Faktor lain yang disebut dikekalkan untuk membolehkan perbandingan yang adil.",
+    "id": "SN006",
+    "form": 5,
+    "sp": "4.2.1",
+    "pdfPage": 143,
+    "chapter": 4,
+    "skillFocus": true
+  },
+  {
+    "t": "Elektrokimia",
+    "q": "Apakah perubahan tenaga utama apabila sel kimia membekalkan kuasa?",
+    "d": "Sensor menggunakan sel kimia sebagai sumber elektrik.",
+    "a": [
+      "Elektrik kepada kimia",
+      "Kimia kepada elektrik",
+      "Haba kepada nuklear",
+      "Cahaya kepada bunyi"
+    ],
+    "c": 1,
+    "h": "Kenal pasti tenaga yang tersimpan dalam bahan sel.",
+    "e": "Sel kimia menukarkan tenaga kimia kepada tenaga elektrik melalui tindak balas kimia.",
+    "id": "SN007",
+    "form": 5,
+    "sp": "6.2.1",
+    "pdfPage": 155,
+    "chapter": 6
+  },
+  {
+    "t": "Teknologi hijau",
+    "q": "Apakah manfaat utama panel solar semasa menjana elektrik?",
+    "d": "Sekolah mahu mengurangkan penggunaan bahan api fosil untuk bekalan elektrik.",
+    "a": [
+      "Menghasilkan elektrik tanpa pembakaran bahan api semasa operasi",
+      "Menjana elektrik yang sama pada waktu malam",
+      "Tiada kesan alam sekitar sepanjang kitar hayat",
+      "Menghasilkan karbon dioksida untuk meningkatkan bekalan"
+    ],
+    "c": 0,
+    "h": "Bezakan kesan semasa operasi dengan kesan pembuatan dan pelupusan.",
+    "e": "Panel solar menjana elektrik daripada cahaya tanpa membakar bahan api semasa operasi. Pembuatan dan pelupusannya masih mempunyai kesan alam sekitar.",
+    "id": "SN008",
+    "form": 4,
+    "sp": "4.2.3",
+    "pdfPage": 70,
+    "chapter": 4
+  },
+  {
+    "t": "Daya dan tekanan",
+    "q": "Apakah prinsip yang menerangkan operasi jek hidraulik?",
+    "d": "Daya dikenakan pada omboh kecil dalam sistem berisi cecair tertutup untuk mengangkat beban pada omboh besar.",
+    "a": [
+      "Tekanan dipindahkan secara seragam ke semua arah dalam cecair tertutup",
+      "Tekanan hanya dipindahkan ke bawah",
+      "Cecair mesti dimampatkan untuk memindahkan tekanan",
+      "Tekanan hilang apabila luas omboh bertambah"
+    ],
+    "c": 0,
+    "h": "Fikirkan prinsip Pascal.",
+    "e": "Prinsip Pascal: tekanan yang dikenakan pada cecair dalam sistem tertutup dipindahkan secara seragam ke semua arah. Jek hidraulik menggunakan prinsip ini.",
+    "id": "SN009",
+    "form": 5,
+    "sp": "8.1.1",
+    "pdfPage": 165,
+    "chapter": 8
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas bagi tempoh ini?",
+    "d": "Sebanyak 60 cm³ gas dikumpulkan dalam 20 s bermula daripada 0 cm³.",
+    "a": [
+      "0.33 cm³/s",
+      "3 cm³/s",
+      "40 cm³/s",
+      "1200 cm³/s"
+    ],
+    "c": 1,
+    "h": "Bahagikan perubahan isipadu gas dengan tempoh masa.",
+    "e": "60 ÷ 20 = 3 cm³/s. Ini kadar purata sepanjang tempoh 20 saat, bukan kadar pada satu ketika.",
+    "id": "SN010",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "chapter": 4
+  },
+  {
+    "t": "Mikroorganisma",
+    "q": "Apakah tujuan penggunaan disinfektan pada permukaan meja makmal?",
+    "d": "Meja dibersihkan dengan disinfektan yang sesuai mengikut arahan penggunaannya sebelum aktiviti makmal.",
+    "a": [
+      "Menggalakkan pembiakan bakteria",
+      "Mengurangkan mikroorganisma pada permukaan dan membantu mengawal penyebarannya",
+      "Menjadikan permukaan sumber nutrien",
+      "Menggantikan semua langkah kebersihan lain"
+    ],
+    "c": 1,
+    "h": "Disinfektan ialah salah satu kaedah kawalan mikroorganisma.",
+    "e": "Disinfektan digunakan pada permukaan bukan hidup untuk mengurangkan mikroorganisma dan membantu mengawal penyebarannya. Ia tidak menggantikan langkah kebersihan lain.",
+    "id": "SN011",
+    "form": 5,
+    "sp": "1.3.2",
+    "pdfPage": 123,
+    "chapter": 1
+  },
+  {
+    "t": "Tenaga nuklear",
+    "q": "Apakah proses yang digunakan untuk membebaskan tenaga dalam reaktor pembelahan nuklear?",
+    "d": "Nukleus berat seperti uranium-235 terlibat dalam tindak balas terkawal.",
+    "a": [
+      "Nukleus berat berpecah menjadi nukleus lebih kecil",
+      "Dua nukleus ringan bergabung",
+      "Elektron berubah menjadi proton",
+      "Uranium dibakar dengan oksigen"
+    ],
+    "c": 0,
+    "h": "Pembelahan bermaksud pemisahan, manakala pelakuran bermaksud penggabungan.",
+    "e": "Pembelahan memecahkan nukleus berat menjadi nukleus lebih kecil dan membebaskan tenaga serta neutron. Pelakuran pula menggabungkan nukleus ringan.",
+    "id": "SN012",
+    "form": 4,
+    "sp": "12.2.1",
+    "pdfPage": 115,
+    "chapter": 12
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Sebuah bas bergerak 240 m dalam 20 s. Berapakah laju puratanya?",
+    "d": "Gunakan jumlah jarak dan jumlah masa.",
+    "a": [
+      "12 m/s",
+      "220 m/s",
+      "4800 m/s",
+      "0.083 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = 240 ÷ 20 = 12 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN013",
+    "h": "Rujuk konsep Gerakan linear.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju berkurang daripada 20 m/s kepada 8 m/s dalam 4 s. Berapakah pecutan?",
+    "d": "Arah gerakan awal diambil sebagai arah positif.",
+    "a": [
+      "3 m/s²",
+      "−3 m/s²",
+      "7 m/s²",
+      "−12 m/s²"
+    ],
+    "c": 1,
+    "e": "Pecutan = (8 − 20) ÷ 4 = −3 m/s². Tanda negatif menunjukkan halaju berkurang bagi arah positif yang dipilih.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN014",
+    "h": "Rujuk konsep Gerakan linear.",
+    "chapter": 11
+  },
+  {
+    "t": "Genetik",
+    "q": "Dalam kacukan Aa × aa, apakah kebarangkalian genotip Aa?",
+    "d": "Setiap induk menyumbang satu alel secara rawak.",
+    "a": [
+      "0%",
+      "25%",
+      "50%",
+      "100%"
+    ],
+    "c": 2,
+    "e": "Gabungan yang mungkin ialah Aa dan aa dengan kebarangkalian sama. Kebarangkalian Aa ialah 50%.",
+    "form": 4,
+    "sp": "5.2.2",
+    "pdfPage": 77,
+    "id": "SN015",
+    "h": "Rujuk konsep Genetik.",
+    "chapter": 5
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Antara keadaan berikut, yang manakah biasanya mempercepat tindak balas?",
+    "d": "Bahan, saiz bahan dan kepekatan dikekalkan. Hanya suhu diubah.",
+    "a": [
+      "Suhu lebih rendah",
+      "Suhu lebih tinggi",
+      "Suhu tidak memberi kesan",
+      "Semua tindak balas berhenti apabila dipanaskan"
+    ],
+    "c": 1,
+    "e": "Peningkatan suhu biasanya meningkatkan kadar tindak balas. Perbandingan dibuat dengan faktor lain dikekalkan.",
+    "form": 5,
+    "sp": "4.2.1",
+    "pdfPage": 143,
+    "id": "SN016",
+    "h": "Rujuk konsep Kadar tindak balas.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Apakah kadar purata penghasilan gas antara saat ke-10 dan ke-30?",
+    "d": "Isipadu gas pada saat ke-10 ialah 15 cm³, dan pada saat ke-30 ialah 55 cm³.",
+    "a": [
+      "2 cm³/s",
+      "1.83 cm³/s",
+      "4 cm³/s",
+      "40 cm³/s"
+    ],
+    "c": 0,
+    "e": "Perubahan isipadu = 55 − 15 = 40 cm³. Tempoh = 30 − 10 = 20 s. Kadar purata = 40 ÷ 20 = 2 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN017",
+    "h": "Rujuk konsep Kadar tindak balas.",
+    "chapter": 4
+  },
+  {
+    "t": "Daya dan tekanan",
+    "q": "Ke arah manakah tekanan dipindahkan dalam sistem hidraulik tertutup?",
+    "d": "Sistem diisi dengan cecair dan daya dikenakan pada satu omboh.",
+    "a": [
+      "Ke bawah sahaja",
+      "Ke atas sahaja",
+      "Ke semua arah secara seragam",
+      "Hanya ke arah omboh paling kecil"
+    ],
+    "c": 2,
+    "e": "Menurut prinsip Pascal, tekanan yang dikenakan dipindahkan secara seragam ke semua arah dalam cecair pada sistem tertutup.",
+    "form": 5,
+    "sp": "8.1.1",
+    "pdfPage": 165,
+    "id": "SN018",
+    "h": "Rujuk konsep Daya dan tekanan.",
+    "chapter": 8
+  },
+  {
+    "t": "Elektrokimia",
+    "q": "Apakah sumber tenaga asal dalam sel kimia ringkas?",
+    "d": "Sel membekalkan arus kepada mentol kecil.",
+    "a": [
+      "Tenaga bunyi",
+      "Tenaga kimia",
+      "Tenaga nuklear",
+      "Tenaga graviti"
+    ],
+    "c": 1,
+    "e": "Tenaga kimia ialah sumber asal. Sel menukarkannya kepada tenaga elektrik untuk membekalkan arus.",
+    "form": 5,
+    "sp": "6.2.1",
+    "pdfPage": 155,
+    "id": "SN019",
+    "h": "Rujuk konsep Elektrokimia.",
+    "chapter": 6
+  },
+  {
+    "t": "Tenaga nuklear",
+    "q": "Apakah perbezaan utama pelakuran daripada pembelahan nukleus?",
+    "d": "Kedua-dua proses boleh membebaskan tenaga nuklear.",
+    "a": [
+      "Pelakuran menggabungkan nukleus ringan",
+      "Pelakuran membakar bahan api dengan oksigen",
+      "Pelakuran memecahkan nukleus berat sahaja",
+      "Pelakuran ialah aliran elektron dalam wayar"
+    ],
+    "c": 0,
+    "e": "Pelakuran menggabungkan nukleus ringan untuk membentuk nukleus lebih berat. Pembelahan memecahkan nukleus berat kepada nukleus lebih kecil.",
+    "form": 4,
+    "sp": "12.2.1",
+    "pdfPage": 115,
+    "id": "SN020",
+    "h": "Rujuk konsep Tenaga nuklear.",
+    "chapter": 12
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Robot penghantar bergerak sejauh 48 m dalam 12 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "4 m/s",
+      "6 m/s",
+      "8 m/s",
+      "3 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 48 ÷ 12 = 4 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN021",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Bas sekolah bergerak sejauh 75 m dalam 15 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "5 m/s",
+      "7 m/s",
+      "10 m/s",
+      "4 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 75 ÷ 15 = 5 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN022",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Pelari bergerak sejauh 108 m dalam 18 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "6 m/s",
+      "8 m/s",
+      "12 m/s",
+      "5 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 108 ÷ 18 = 6 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN023",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Troli makmal bergerak sejauh 147 m dalam 21 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "7 m/s",
+      "9 m/s",
+      "14 m/s",
+      "6 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 147 ÷ 21 = 7 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN024",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Robot penghantar bergerak sejauh 192 m dalam 24 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "8 m/s",
+      "10 m/s",
+      "16 m/s",
+      "7 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 192 ÷ 24 = 8 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN025",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Bas sekolah bergerak sejauh 243 m dalam 27 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "9 m/s",
+      "11 m/s",
+      "18 m/s",
+      "8 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 243 ÷ 27 = 9 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN026",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Pelari bergerak sejauh 300 m dalam 30 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "10 m/s",
+      "12 m/s",
+      "20 m/s",
+      "9 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 300 ÷ 30 = 10 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN027",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Troli makmal bergerak sejauh 363 m dalam 33 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "11 m/s",
+      "13 m/s",
+      "22 m/s",
+      "10 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 363 ÷ 33 = 11 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN028",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Robot penghantar bergerak sejauh 432 m dalam 36 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "12 m/s",
+      "14 m/s",
+      "24 m/s",
+      "11 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 432 ÷ 36 = 12 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN029",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Bas sekolah bergerak sejauh 507 m dalam 39 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "13 m/s",
+      "15 m/s",
+      "26 m/s",
+      "12 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 507 ÷ 39 = 13 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN030",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Pelari bergerak sejauh 588 m dalam 42 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "14 m/s",
+      "16 m/s",
+      "28 m/s",
+      "13 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 588 ÷ 42 = 14 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN031",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Troli makmal bergerak sejauh 675 m dalam 45 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "15 m/s",
+      "17 m/s",
+      "30 m/s",
+      "14 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 675 ÷ 45 = 15 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN032",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Robot penghantar bergerak sejauh 768 m dalam 48 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "16 m/s",
+      "18 m/s",
+      "32 m/s",
+      "15 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 768 ÷ 48 = 16 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN033",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Bas sekolah bergerak sejauh 867 m dalam 51 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "17 m/s",
+      "19 m/s",
+      "34 m/s",
+      "16 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 867 ÷ 51 = 17 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN034",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Pelari bergerak sejauh 972 m dalam 54 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "18 m/s",
+      "20 m/s",
+      "36 m/s",
+      "17 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 972 ÷ 54 = 18 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN035",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Troli makmal bergerak sejauh 1083 m dalam 57 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "19 m/s",
+      "21 m/s",
+      "38 m/s",
+      "18 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 1083 ÷ 57 = 19 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN036",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Robot penghantar bergerak sejauh 1200 m dalam 60 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "20 m/s",
+      "22 m/s",
+      "40 m/s",
+      "19 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 1200 ÷ 60 = 20 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN037",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Bas sekolah bergerak sejauh 1323 m dalam 63 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "21 m/s",
+      "23 m/s",
+      "42 m/s",
+      "20 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 1323 ÷ 63 = 21 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN038",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Pelari bergerak sejauh 1452 m dalam 66 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "22 m/s",
+      "24 m/s",
+      "44 m/s",
+      "21 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 1452 ÷ 66 = 22 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN039",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Troli makmal bergerak sejauh 1587 m dalam 69 s. Berapakah laju purata?",
+    "d": "Hitung laju purata daripada jumlah jarak dan jumlah masa.",
+    "a": [
+      "23 m/s",
+      "25 m/s",
+      "46 m/s",
+      "22 m/s"
+    ],
+    "c": 0,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa = 1587 ÷ 69 = 23 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN040",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju troli meningkat daripada 3 m/s kepada 5 m/s dalam 2 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "2 m/s²",
+      "31 m/s²",
+      "1 m/s²",
+      "-1 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (5 − 3) ÷ 2 = 1 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN041",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju kereta meningkat daripada 4 m/s kepada 10 m/s dalam 3 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "3 m/s²",
+      "6 m/s²",
+      "2 m/s²",
+      "-2 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (10 − 4) ÷ 3 = 2 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN042",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju robot meningkat daripada 5 m/s kepada 17 m/s dalam 4 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "4 m/s²",
+      "12 m/s²",
+      "3 m/s²",
+      "-3 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (17 − 5) ÷ 4 = 3 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN043",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju motosikal meningkat daripada 6 m/s kepada 26 m/s dalam 5 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "5 m/s²",
+      "20 m/s²",
+      "4 m/s²",
+      "-4 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (26 − 6) ÷ 5 = 4 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN044",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju troli meningkat daripada 7 m/s kepada 37 m/s dalam 6 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "6 m/s²",
+      "30 m/s²",
+      "5 m/s²",
+      "-5 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (37 − 7) ÷ 6 = 5 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN045",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju kereta meningkat daripada 8 m/s kepada 20 m/s dalam 2 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "7 m/s²",
+      "12 m/s²",
+      "6 m/s²",
+      "-6 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (20 − 8) ÷ 2 = 6 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN046",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju robot meningkat daripada 9 m/s kepada 30 m/s dalam 3 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "8 m/s²",
+      "21 m/s²",
+      "7 m/s²",
+      "-7 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (30 − 9) ÷ 3 = 7 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN047",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju motosikal meningkat daripada 10 m/s kepada 42 m/s dalam 4 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "9 m/s²",
+      "32 m/s²",
+      "8 m/s²",
+      "-8 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (42 − 10) ÷ 4 = 8 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN048",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju troli meningkat daripada 11 m/s kepada 56 m/s dalam 5 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "10 m/s²",
+      "45 m/s²",
+      "9 m/s²",
+      "-9 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (56 − 11) ÷ 5 = 9 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN049",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju kereta meningkat daripada 12 m/s kepada 72 m/s dalam 6 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "11 m/s²",
+      "60 m/s²",
+      "10 m/s²",
+      "-10 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (72 − 12) ÷ 6 = 10 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN050",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju robot meningkat daripada 13 m/s kepada 35 m/s dalam 2 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "12 m/s²",
+      "22 m/s²",
+      "11 m/s²",
+      "-11 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (35 − 13) ÷ 2 = 11 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN051",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju motosikal meningkat daripada 14 m/s kepada 50 m/s dalam 3 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "13 m/s²",
+      "36 m/s²",
+      "12 m/s²",
+      "-12 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (50 − 14) ÷ 3 = 12 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN052",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju troli meningkat daripada 15 m/s kepada 67 m/s dalam 4 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "14 m/s²",
+      "52 m/s²",
+      "13 m/s²",
+      "-13 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (67 − 15) ÷ 4 = 13 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN053",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju kereta meningkat daripada 16 m/s kepada 86 m/s dalam 5 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "15 m/s²",
+      "70 m/s²",
+      "14 m/s²",
+      "-14 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (86 − 16) ÷ 5 = 14 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN054",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju robot meningkat daripada 17 m/s kepada 107 m/s dalam 6 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "16 m/s²",
+      "90 m/s²",
+      "15 m/s²",
+      "-15 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (107 − 17) ÷ 6 = 15 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN055",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju motosikal meningkat daripada 18 m/s kepada 50 m/s dalam 2 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "17 m/s²",
+      "32 m/s²",
+      "16 m/s²",
+      "-16 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (50 − 18) ÷ 2 = 16 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN056",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju troli meningkat daripada 19 m/s kepada 70 m/s dalam 3 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "18 m/s²",
+      "51 m/s²",
+      "17 m/s²",
+      "-17 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (70 − 19) ÷ 3 = 17 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN057",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju kereta meningkat daripada 20 m/s kepada 92 m/s dalam 4 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "19 m/s²",
+      "72 m/s²",
+      "18 m/s²",
+      "-18 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (92 − 20) ÷ 4 = 18 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN058",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju robot meningkat daripada 21 m/s kepada 116 m/s dalam 5 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "20 m/s²",
+      "95 m/s²",
+      "19 m/s²",
+      "-19 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (116 − 21) ÷ 5 = 19 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN059",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Halaju motosikal meningkat daripada 22 m/s kepada 142 m/s dalam 6 s. Berapakah pecutan purata?",
+    "d": "Gerakan berlaku sepanjang garis lurus dalam arah yang sama.",
+    "a": [
+      "21 m/s²",
+      "120 m/s²",
+      "20 m/s²",
+      "-20 m/s²"
+    ],
+    "c": 2,
+    "e": "Pecutan = (halaju akhir − halaju awal) ÷ masa = (142 − 22) ÷ 6 = 20 m/s².",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN060",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 11
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-5 dan ke-10?",
+    "d": "Isipadu gas meningkat daripada 8 cm³ kepada 18 cm³ dalam selang masa tersebut.",
+    "a": [
+      "3 cm³/s",
+      "2 cm³/s",
+      "4 cm³/s",
+      "1 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 18 − 8 = 10 cm³. Tempoh = 10 − 5 = 5 s. Kadar purata = 10 ÷ 5 = 2 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN061",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-6 dan ke-12?",
+    "d": "Isipadu gas meningkat daripada 10 cm³ kepada 28 cm³ dalam selang masa tersebut.",
+    "a": [
+      "4 cm³/s",
+      "3 cm³/s",
+      "6 cm³/s",
+      "2 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 28 − 10 = 18 cm³. Tempoh = 12 − 6 = 6 s. Kadar purata = 18 ÷ 6 = 3 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN062",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-7 dan ke-14?",
+    "d": "Isipadu gas meningkat daripada 12 cm³ kepada 40 cm³ dalam selang masa tersebut.",
+    "a": [
+      "5 cm³/s",
+      "4 cm³/s",
+      "8 cm³/s",
+      "3 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 40 − 12 = 28 cm³. Tempoh = 14 − 7 = 7 s. Kadar purata = 28 ÷ 7 = 4 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN063",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-8 dan ke-16?",
+    "d": "Isipadu gas meningkat daripada 14 cm³ kepada 54 cm³ dalam selang masa tersebut.",
+    "a": [
+      "6 cm³/s",
+      "5 cm³/s",
+      "10 cm³/s",
+      "4 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 54 − 14 = 40 cm³. Tempoh = 16 − 8 = 8 s. Kadar purata = 40 ÷ 8 = 5 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN064",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-9 dan ke-18?",
+    "d": "Isipadu gas meningkat daripada 16 cm³ kepada 70 cm³ dalam selang masa tersebut.",
+    "a": [
+      "7 cm³/s",
+      "6 cm³/s",
+      "12 cm³/s",
+      "5 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 70 − 16 = 54 cm³. Tempoh = 18 − 9 = 9 s. Kadar purata = 54 ÷ 9 = 6 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN065",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-10 dan ke-20?",
+    "d": "Isipadu gas meningkat daripada 18 cm³ kepada 88 cm³ dalam selang masa tersebut.",
+    "a": [
+      "8 cm³/s",
+      "7 cm³/s",
+      "14 cm³/s",
+      "6 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 88 − 18 = 70 cm³. Tempoh = 20 − 10 = 10 s. Kadar purata = 70 ÷ 10 = 7 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN066",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-11 dan ke-16?",
+    "d": "Isipadu gas meningkat daripada 20 cm³ kepada 60 cm³ dalam selang masa tersebut.",
+    "a": [
+      "9 cm³/s",
+      "8 cm³/s",
+      "16 cm³/s",
+      "7 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 60 − 20 = 40 cm³. Tempoh = 16 − 11 = 5 s. Kadar purata = 40 ÷ 5 = 8 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN067",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-12 dan ke-18?",
+    "d": "Isipadu gas meningkat daripada 22 cm³ kepada 76 cm³ dalam selang masa tersebut.",
+    "a": [
+      "10 cm³/s",
+      "9 cm³/s",
+      "18 cm³/s",
+      "8 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 76 − 22 = 54 cm³. Tempoh = 18 − 12 = 6 s. Kadar purata = 54 ÷ 6 = 9 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN068",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-13 dan ke-20?",
+    "d": "Isipadu gas meningkat daripada 24 cm³ kepada 94 cm³ dalam selang masa tersebut.",
+    "a": [
+      "11 cm³/s",
+      "10 cm³/s",
+      "20 cm³/s",
+      "9 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 94 − 24 = 70 cm³. Tempoh = 20 − 13 = 7 s. Kadar purata = 70 ÷ 7 = 10 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN069",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-14 dan ke-22?",
+    "d": "Isipadu gas meningkat daripada 26 cm³ kepada 114 cm³ dalam selang masa tersebut.",
+    "a": [
+      "12 cm³/s",
+      "11 cm³/s",
+      "22 cm³/s",
+      "10 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 114 − 26 = 88 cm³. Tempoh = 22 − 14 = 8 s. Kadar purata = 88 ÷ 8 = 11 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN070",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-15 dan ke-24?",
+    "d": "Isipadu gas meningkat daripada 28 cm³ kepada 136 cm³ dalam selang masa tersebut.",
+    "a": [
+      "13 cm³/s",
+      "12 cm³/s",
+      "24 cm³/s",
+      "11 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 136 − 28 = 108 cm³. Tempoh = 24 − 15 = 9 s. Kadar purata = 108 ÷ 9 = 12 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN071",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-16 dan ke-26?",
+    "d": "Isipadu gas meningkat daripada 30 cm³ kepada 160 cm³ dalam selang masa tersebut.",
+    "a": [
+      "14 cm³/s",
+      "13 cm³/s",
+      "26 cm³/s",
+      "12 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 160 − 30 = 130 cm³. Tempoh = 26 − 16 = 10 s. Kadar purata = 130 ÷ 10 = 13 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN072",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-17 dan ke-22?",
+    "d": "Isipadu gas meningkat daripada 32 cm³ kepada 102 cm³ dalam selang masa tersebut.",
+    "a": [
+      "15 cm³/s",
+      "14 cm³/s",
+      "28 cm³/s",
+      "13 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 102 − 32 = 70 cm³. Tempoh = 22 − 17 = 5 s. Kadar purata = 70 ÷ 5 = 14 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN073",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-18 dan ke-24?",
+    "d": "Isipadu gas meningkat daripada 34 cm³ kepada 124 cm³ dalam selang masa tersebut.",
+    "a": [
+      "16 cm³/s",
+      "15 cm³/s",
+      "30 cm³/s",
+      "14 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 124 − 34 = 90 cm³. Tempoh = 24 − 18 = 6 s. Kadar purata = 90 ÷ 6 = 15 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN074",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-19 dan ke-26?",
+    "d": "Isipadu gas meningkat daripada 36 cm³ kepada 148 cm³ dalam selang masa tersebut.",
+    "a": [
+      "17 cm³/s",
+      "16 cm³/s",
+      "32 cm³/s",
+      "15 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 148 − 36 = 112 cm³. Tempoh = 26 − 19 = 7 s. Kadar purata = 112 ÷ 7 = 16 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN075",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-20 dan ke-28?",
+    "d": "Isipadu gas meningkat daripada 38 cm³ kepada 174 cm³ dalam selang masa tersebut.",
+    "a": [
+      "18 cm³/s",
+      "17 cm³/s",
+      "34 cm³/s",
+      "16 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 174 − 38 = 136 cm³. Tempoh = 28 − 20 = 8 s. Kadar purata = 136 ÷ 8 = 17 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN076",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-21 dan ke-30?",
+    "d": "Isipadu gas meningkat daripada 40 cm³ kepada 202 cm³ dalam selang masa tersebut.",
+    "a": [
+      "19 cm³/s",
+      "18 cm³/s",
+      "36 cm³/s",
+      "17 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 202 − 40 = 162 cm³. Tempoh = 30 − 21 = 9 s. Kadar purata = 162 ÷ 9 = 18 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN077",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-22 dan ke-32?",
+    "d": "Isipadu gas meningkat daripada 42 cm³ kepada 232 cm³ dalam selang masa tersebut.",
+    "a": [
+      "20 cm³/s",
+      "19 cm³/s",
+      "38 cm³/s",
+      "18 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 232 − 42 = 190 cm³. Tempoh = 32 − 22 = 10 s. Kadar purata = 190 ÷ 10 = 19 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN078",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-23 dan ke-28?",
+    "d": "Isipadu gas meningkat daripada 44 cm³ kepada 144 cm³ dalam selang masa tersebut.",
+    "a": [
+      "21 cm³/s",
+      "20 cm³/s",
+      "40 cm³/s",
+      "19 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 144 − 44 = 100 cm³. Tempoh = 28 − 23 = 5 s. Kadar purata = 100 ÷ 5 = 20 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN079",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Berapakah kadar purata penghasilan gas antara saat ke-24 dan ke-30?",
+    "d": "Isipadu gas meningkat daripada 46 cm³ kepada 172 cm³ dalam selang masa tersebut.",
+    "a": [
+      "22 cm³/s",
+      "21 cm³/s",
+      "42 cm³/s",
+      "20 cm³/s"
+    ],
+    "c": 1,
+    "e": "Perubahan isipadu = 172 − 46 = 126 cm³. Tempoh = 30 − 24 = 6 s. Kadar purata = 126 ÷ 6 = 21 cm³/s.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN080",
+    "h": "Gunakan maklumat yang diberi dan formula yang sesuai.",
+    "chapter": 4
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 1 memperlahankan gerakan daripada 30 m/s kepada 28 m/s dalam 2 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-1 m/s²",
+      "1 m/s²",
+      "-3 m/s²",
+      "3 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (28 − 30) ÷ 2 = -1 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN081",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 2 memperlahankan gerakan daripada 32 m/s kepada 26 m/s dalam 3 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-2 m/s²",
+      "2 m/s²",
+      "-4 m/s²",
+      "4 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (26 − 32) ÷ 3 = -2 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN082",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 3 memperlahankan gerakan daripada 34 m/s kepada 22 m/s dalam 4 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-3 m/s²",
+      "3 m/s²",
+      "-5 m/s²",
+      "5 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (22 − 34) ÷ 4 = -3 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN083",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 4 memperlahankan gerakan daripada 36 m/s kepada 16 m/s dalam 5 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-4 m/s²",
+      "4 m/s²",
+      "-6 m/s²",
+      "6 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (16 − 36) ÷ 5 = -4 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN084",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 5 memperlahankan gerakan daripada 38 m/s kepada 32 m/s dalam 6 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-1 m/s²",
+      "1 m/s²",
+      "-3 m/s²",
+      "3 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (32 − 38) ÷ 6 = -1 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN085",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 6 memperlahankan gerakan daripada 40 m/s kepada 26 m/s dalam 7 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-2 m/s²",
+      "2 m/s²",
+      "-4 m/s²",
+      "4 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (26 − 40) ÷ 7 = -2 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN086",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 7 memperlahankan gerakan daripada 42 m/s kepada 36 m/s dalam 2 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-3 m/s²",
+      "3 m/s²",
+      "-5 m/s²",
+      "5 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (36 − 42) ÷ 2 = -3 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN087",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 8 memperlahankan gerakan daripada 44 m/s kepada 32 m/s dalam 3 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-4 m/s²",
+      "4 m/s²",
+      "-6 m/s²",
+      "6 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (32 − 44) ÷ 3 = -4 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN088",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 9 memperlahankan gerakan daripada 46 m/s kepada 42 m/s dalam 4 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-1 m/s²",
+      "1 m/s²",
+      "-3 m/s²",
+      "3 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (42 − 46) ÷ 4 = -1 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN089",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 10 memperlahankan gerakan daripada 48 m/s kepada 38 m/s dalam 5 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-2 m/s²",
+      "2 m/s²",
+      "-4 m/s²",
+      "4 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (38 − 48) ÷ 5 = -2 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN090",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 11 memperlahankan gerakan daripada 50 m/s kepada 32 m/s dalam 6 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-3 m/s²",
+      "3 m/s²",
+      "-5 m/s²",
+      "5 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (32 − 50) ÷ 6 = -3 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN091",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 12 memperlahankan gerakan daripada 52 m/s kepada 24 m/s dalam 7 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-4 m/s²",
+      "4 m/s²",
+      "-6 m/s²",
+      "6 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (24 − 52) ÷ 7 = -4 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN092",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 13 memperlahankan gerakan daripada 54 m/s kepada 52 m/s dalam 2 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-1 m/s²",
+      "1 m/s²",
+      "-3 m/s²",
+      "3 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (52 − 54) ÷ 2 = -1 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN093",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 14 memperlahankan gerakan daripada 56 m/s kepada 50 m/s dalam 3 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-2 m/s²",
+      "2 m/s²",
+      "-4 m/s²",
+      "4 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (50 − 56) ÷ 3 = -2 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN094",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 15 memperlahankan gerakan daripada 58 m/s kepada 46 m/s dalam 4 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-3 m/s²",
+      "3 m/s²",
+      "-5 m/s²",
+      "5 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (46 − 58) ÷ 4 = -3 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN095",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 16 memperlahankan gerakan daripada 60 m/s kepada 40 m/s dalam 5 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-4 m/s²",
+      "4 m/s²",
+      "-6 m/s²",
+      "6 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (40 − 60) ÷ 5 = -4 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN096",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 17 memperlahankan gerakan daripada 62 m/s kepada 56 m/s dalam 6 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-1 m/s²",
+      "1 m/s²",
+      "-3 m/s²",
+      "3 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (56 − 62) ÷ 6 = -1 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN097",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 18 memperlahankan gerakan daripada 64 m/s kepada 50 m/s dalam 7 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-2 m/s²",
+      "2 m/s²",
+      "-4 m/s²",
+      "4 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (50 − 64) ÷ 7 = -2 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN098",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 19 memperlahankan gerakan daripada 66 m/s kepada 60 m/s dalam 2 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-3 m/s²",
+      "3 m/s²",
+      "-5 m/s²",
+      "5 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (60 − 66) ÷ 2 = -3 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN099",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 20 memperlahankan gerakan daripada 68 m/s kepada 56 m/s dalam 3 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-4 m/s²",
+      "4 m/s²",
+      "-6 m/s²",
+      "6 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (56 − 68) ÷ 3 = -4 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN100",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 21 memperlahankan gerakan daripada 70 m/s kepada 66 m/s dalam 4 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-1 m/s²",
+      "1 m/s²",
+      "-3 m/s²",
+      "3 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (66 − 70) ÷ 4 = -1 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN101",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 22 memperlahankan gerakan daripada 72 m/s kepada 62 m/s dalam 5 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-2 m/s²",
+      "2 m/s²",
+      "-4 m/s²",
+      "4 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (62 − 72) ÷ 5 = -2 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN102",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 23 memperlahankan gerakan daripada 74 m/s kepada 56 m/s dalam 6 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-3 m/s²",
+      "3 m/s²",
+      "-5 m/s²",
+      "5 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (56 − 74) ÷ 6 = -3 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN103",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 24 memperlahankan gerakan daripada 76 m/s kepada 48 m/s dalam 7 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-4 m/s²",
+      "4 m/s²",
+      "-6 m/s²",
+      "6 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (48 − 76) ÷ 7 = -4 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN104",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 25 memperlahankan gerakan daripada 78 m/s kepada 76 m/s dalam 2 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-1 m/s²",
+      "1 m/s²",
+      "-3 m/s²",
+      "3 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (76 − 78) ÷ 2 = -1 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN105",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 26 memperlahankan gerakan daripada 80 m/s kepada 74 m/s dalam 3 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-2 m/s²",
+      "2 m/s²",
+      "-4 m/s²",
+      "4 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (74 − 80) ÷ 3 = -2 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN106",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 27 memperlahankan gerakan daripada 82 m/s kepada 70 m/s dalam 4 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-3 m/s²",
+      "3 m/s²",
+      "-5 m/s²",
+      "5 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (70 − 82) ÷ 4 = -3 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN107",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 28 memperlahankan gerakan daripada 84 m/s kepada 64 m/s dalam 5 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-4 m/s²",
+      "4 m/s²",
+      "-6 m/s²",
+      "6 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (64 − 84) ÷ 5 = -4 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN108",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 29 memperlahankan gerakan daripada 86 m/s kepada 80 m/s dalam 6 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-1 m/s²",
+      "1 m/s²",
+      "-3 m/s²",
+      "3 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (80 − 86) ÷ 6 = -1 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN109",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Kenderaan 30 memperlahankan gerakan daripada 88 m/s kepada 74 m/s dalam 7 s. Apakah pecutan puratanya?",
+    "d": "Arah gerakan awal ditetapkan sebagai arah positif.",
+    "a": [
+      "-2 m/s²",
+      "2 m/s²",
+      "-4 m/s²",
+      "4 m/s²"
+    ],
+    "c": 0,
+    "e": "Pecutan = (74 − 88) ÷ 7 = -2 m/s². Tanda negatif menunjukkan pengurangan halaju dalam arah positif yang ditetapkan.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN110",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 1 mengumpulkan 16 cm³ gas dalam 8 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "4 cm³/s",
+      "1 cm³/s",
+      "2 cm³/s",
+      "6 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (16 − 0) ÷ 8 = 2 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN111",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 2 mengumpulkan 27 cm³ gas dalam 9 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "5 cm³/s",
+      "2 cm³/s",
+      "3 cm³/s",
+      "9 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (27 − 0) ÷ 9 = 3 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN112",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 3 mengumpulkan 40 cm³ gas dalam 10 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "6 cm³/s",
+      "3 cm³/s",
+      "4 cm³/s",
+      "12 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (40 − 0) ÷ 10 = 4 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN113",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 4 mengumpulkan 55 cm³ gas dalam 11 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "7 cm³/s",
+      "4 cm³/s",
+      "5 cm³/s",
+      "15 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (55 − 0) ÷ 11 = 5 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN114",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 5 mengumpulkan 72 cm³ gas dalam 12 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "8 cm³/s",
+      "5 cm³/s",
+      "6 cm³/s",
+      "18 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (72 − 0) ÷ 12 = 6 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN115",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 6 mengumpulkan 91 cm³ gas dalam 13 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "9 cm³/s",
+      "6 cm³/s",
+      "7 cm³/s",
+      "21 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (91 − 0) ÷ 13 = 7 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN116",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 7 mengumpulkan 112 cm³ gas dalam 14 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "10 cm³/s",
+      "7 cm³/s",
+      "8 cm³/s",
+      "24 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (112 − 0) ÷ 14 = 8 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN117",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 8 mengumpulkan 135 cm³ gas dalam 15 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "11 cm³/s",
+      "8 cm³/s",
+      "9 cm³/s",
+      "27 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (135 − 0) ÷ 15 = 9 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN118",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 9 mengumpulkan 80 cm³ gas dalam 8 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "12 cm³/s",
+      "9 cm³/s",
+      "10 cm³/s",
+      "30 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (80 − 0) ÷ 8 = 10 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN119",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 10 mengumpulkan 99 cm³ gas dalam 9 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "13 cm³/s",
+      "10 cm³/s",
+      "11 cm³/s",
+      "33 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (99 − 0) ÷ 9 = 11 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN120",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 11 mengumpulkan 120 cm³ gas dalam 10 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "14 cm³/s",
+      "11 cm³/s",
+      "12 cm³/s",
+      "36 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (120 − 0) ÷ 10 = 12 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN121",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 12 mengumpulkan 143 cm³ gas dalam 11 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "15 cm³/s",
+      "12 cm³/s",
+      "13 cm³/s",
+      "39 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (143 − 0) ÷ 11 = 13 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN122",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 13 mengumpulkan 168 cm³ gas dalam 12 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "16 cm³/s",
+      "13 cm³/s",
+      "14 cm³/s",
+      "42 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (168 − 0) ÷ 12 = 14 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN123",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 14 mengumpulkan 195 cm³ gas dalam 13 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "17 cm³/s",
+      "14 cm³/s",
+      "15 cm³/s",
+      "45 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (195 − 0) ÷ 13 = 15 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN124",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 15 mengumpulkan 224 cm³ gas dalam 14 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "18 cm³/s",
+      "15 cm³/s",
+      "16 cm³/s",
+      "48 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (224 − 0) ÷ 14 = 16 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN125",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 16 mengumpulkan 255 cm³ gas dalam 15 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "19 cm³/s",
+      "16 cm³/s",
+      "17 cm³/s",
+      "51 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (255 − 0) ÷ 15 = 17 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN126",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 17 mengumpulkan 144 cm³ gas dalam 8 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "20 cm³/s",
+      "17 cm³/s",
+      "18 cm³/s",
+      "54 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (144 − 0) ÷ 8 = 18 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN127",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 18 mengumpulkan 171 cm³ gas dalam 9 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "21 cm³/s",
+      "18 cm³/s",
+      "19 cm³/s",
+      "57 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (171 − 0) ÷ 9 = 19 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN128",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 19 mengumpulkan 200 cm³ gas dalam 10 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "22 cm³/s",
+      "19 cm³/s",
+      "20 cm³/s",
+      "60 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (200 − 0) ÷ 10 = 20 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN129",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 20 mengumpulkan 231 cm³ gas dalam 11 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "23 cm³/s",
+      "20 cm³/s",
+      "21 cm³/s",
+      "63 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (231 − 0) ÷ 11 = 21 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN130",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 21 mengumpulkan 264 cm³ gas dalam 12 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "24 cm³/s",
+      "21 cm³/s",
+      "22 cm³/s",
+      "66 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (264 − 0) ÷ 12 = 22 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN131",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 22 mengumpulkan 299 cm³ gas dalam 13 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "25 cm³/s",
+      "22 cm³/s",
+      "23 cm³/s",
+      "69 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (299 − 0) ÷ 13 = 23 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN132",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 23 mengumpulkan 336 cm³ gas dalam 14 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "26 cm³/s",
+      "23 cm³/s",
+      "24 cm³/s",
+      "72 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (336 − 0) ÷ 14 = 24 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN133",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 24 mengumpulkan 375 cm³ gas dalam 15 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "27 cm³/s",
+      "24 cm³/s",
+      "25 cm³/s",
+      "75 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (375 − 0) ÷ 15 = 25 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN134",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 25 mengumpulkan 208 cm³ gas dalam 8 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "28 cm³/s",
+      "25 cm³/s",
+      "26 cm³/s",
+      "78 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (208 − 0) ÷ 8 = 26 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN135",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 26 mengumpulkan 243 cm³ gas dalam 9 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "29 cm³/s",
+      "26 cm³/s",
+      "27 cm³/s",
+      "81 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (243 − 0) ÷ 9 = 27 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN136",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 27 mengumpulkan 280 cm³ gas dalam 10 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "30 cm³/s",
+      "27 cm³/s",
+      "28 cm³/s",
+      "84 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (280 − 0) ÷ 10 = 28 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN137",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 28 mengumpulkan 319 cm³ gas dalam 11 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "31 cm³/s",
+      "28 cm³/s",
+      "29 cm³/s",
+      "87 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (319 − 0) ÷ 11 = 29 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN138",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen 29 mengumpulkan 360 cm³ gas dalam 12 s bermula daripada 0 cm³. Apakah kadar purata?",
+    "d": "Kadar purata ialah perubahan isipadu gas dibahagi tempoh masa.",
+    "a": [
+      "32 cm³/s",
+      "29 cm³/s",
+      "30 cm³/s",
+      "90 cm³/s"
+    ],
+    "c": 2,
+    "e": "Kadar purata = (360 − 0) ÷ 12 = 30 cm³/s. Nilai ini ialah purata bagi keseluruhan tempoh, bukan kadar seketika.",
+    "form": 5,
+    "sp": "4.1.3",
+    "pdfPage": 143,
+    "id": "SN139",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 4
+  },
+  {
+    "form": 5,
+    "chapter": 4,
+    "sp": "4.2.1",
+    "pdfPage": 143,
+    "t": "Kadar tindak balas",
+    "q": "Eksperimen suhu menghasilkan 40 cm³ gas dalam 20 s pada 25°C dan 10 s pada 35°C. Apakah kesimpulan yang disokong?",
+    "d": "Kepekatan asid, jisim dan saiz pepejal dikekalkan.",
+    "a": [
+      "Suhu lebih tinggi mempercepat tindak balas dalam eksperimen ini",
+      "Suhu lebih tinggi melambatkan tindak balas",
+      "Jisim pepejal bertambah",
+      "Kepekatan asid pasti berubah"
+    ],
+    "c": 0,
+    "e": "Isipadu gas yang sama dihasilkan dalam masa lebih singkat pada suhu lebih tinggi. Ini menyokong kadar yang lebih cepat bagi eksperimen ini.",
+    "id": "SN140",
+    "skillFocus": true,
+    "h": "Tafsir data dan cari faktor yang dikawal."
+  },
+  {
+    "form": 4,
+    "chapter": 9,
+    "sp": "9.1.2",
+    "pdfPage": 98,
+    "t": "Kimia industri",
+    "q": "Dalam ujian kekerasan, lekuk pada kuprum lebih besar daripada gangsa bagi hentaman sama. Apakah inferens paling sesuai?",
+    "d": "Kaedah dan daya hentaman dikekalkan untuk perbandingan.",
+    "a": [
+      "Kuprum lebih keras",
+      "Gangsa lebih keras",
+      "Kedua-duanya tiada beza",
+      "Gangsa bukan bahan pepejal"
+    ],
+    "c": 1,
+    "e": "Lekuk lebih kecil menunjukkan bahan lebih sukar berubah bentuk di bawah hentaman yang sama, menyokong inferens bahawa gangsa lebih keras.",
+    "id": "SN141",
+    "skillFocus": true,
+    "h": "Tafsir data dan cari faktor yang dikawal."
+  },
+  {
+    "form": 5,
+    "chapter": 1,
+    "sp": "1.1.3",
+    "pdfPage": 122,
+    "t": "Mikroorganisma",
+    "q": "Penyiasat menguji kesan suhu terhadap pertumbuhan bakteria. Faktor manakah perlu dikekalkan?",
+    "d": "Suhu ialah faktor yang sengaja diubah.",
+    "a": [
+      "Semua suhu mesti sama",
+      "Jenis bakteria boleh berubah setiap kali",
+      "Jenis bakteria dan kuantiti nutrien",
+      "Keputusan pertumbuhan mesti sama"
+    ],
+    "c": 2,
+    "e": "Jenis bakteria dan kuantiti nutrien perlu dikekalkan supaya perbezaan pertumbuhan dapat dibandingkan terhadap suhu dengan lebih adil.",
+    "id": "SN142",
+    "skillFocus": true,
+    "h": "Tafsir data dan cari faktor yang dikawal."
+  },
+  {
+    "form": 4,
+    "chapter": 11,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "t": "Daya dan gerakan",
+    "q": "Data perjalanan menunjukkan 80 m dalam 10 s, kemudian 80 m dalam 20 s. Apakah laju purata keseluruhan?",
+    "d": "Dua bahagian perjalanan berlaku berturutan.",
+    "a": [
+      "12 m/s",
+      "6 m/s",
+      "4 m/s",
+      "5.33 m/s"
+    ],
+    "c": 3,
+    "e": "Jumlah jarak 160 m dan jumlah masa 30 s. Laju purata = 160 ÷ 30 ≈ 5.33 m/s; jangan puratakan dua laju secara terus apabila tempoh berbeza.",
+    "id": "SN143",
+    "skillFocus": true,
+    "h": "Tafsir data dan cari faktor yang dikawal."
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 230 m mengambil 23 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "13 m/s",
+      "10 m/s",
+      "20 m/s",
+      "8 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 230 ÷ 23 = 10 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN144",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 264 m mengambil 24 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "14 m/s",
+      "11 m/s",
+      "22 m/s",
+      "9 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 264 ÷ 24 = 11 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN145",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 300 m mengambil 25 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "15 m/s",
+      "12 m/s",
+      "24 m/s",
+      "10 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 300 ÷ 25 = 12 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN146",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 338 m mengambil 26 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "16 m/s",
+      "13 m/s",
+      "26 m/s",
+      "11 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 338 ÷ 26 = 13 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN147",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 378 m mengambil 27 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "17 m/s",
+      "14 m/s",
+      "28 m/s",
+      "12 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 378 ÷ 27 = 14 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN148",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 420 m mengambil 28 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "18 m/s",
+      "15 m/s",
+      "30 m/s",
+      "13 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 420 ÷ 28 = 15 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN149",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 464 m mengambil 29 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "19 m/s",
+      "16 m/s",
+      "32 m/s",
+      "14 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 464 ÷ 29 = 16 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN150",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 510 m mengambil 30 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "20 m/s",
+      "17 m/s",
+      "34 m/s",
+      "15 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 510 ÷ 30 = 17 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN151",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 558 m mengambil 31 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "21 m/s",
+      "18 m/s",
+      "36 m/s",
+      "16 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 558 ÷ 31 = 18 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN152",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 608 m mengambil 32 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "22 m/s",
+      "19 m/s",
+      "38 m/s",
+      "17 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 608 ÷ 32 = 19 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN153",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 660 m mengambil 33 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "23 m/s",
+      "20 m/s",
+      "40 m/s",
+      "18 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 660 ÷ 33 = 20 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN154",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 714 m mengambil 34 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "24 m/s",
+      "21 m/s",
+      "42 m/s",
+      "19 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 714 ÷ 34 = 21 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN155",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 770 m mengambil 35 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "25 m/s",
+      "22 m/s",
+      "44 m/s",
+      "20 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 770 ÷ 35 = 22 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN156",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 828 m mengambil 36 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "26 m/s",
+      "23 m/s",
+      "46 m/s",
+      "21 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 828 ÷ 36 = 23 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN157",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 888 m mengambil 37 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "27 m/s",
+      "24 m/s",
+      "48 m/s",
+      "22 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 888 ÷ 37 = 24 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN158",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 950 m mengambil 38 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "28 m/s",
+      "25 m/s",
+      "50 m/s",
+      "23 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 950 ÷ 38 = 25 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN159",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 1014 m mengambil 39 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "29 m/s",
+      "26 m/s",
+      "52 m/s",
+      "24 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 1014 ÷ 39 = 26 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN160",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 1080 m mengambil 40 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "30 m/s",
+      "27 m/s",
+      "54 m/s",
+      "25 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 1080 ÷ 40 = 27 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN161",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 1148 m mengambil 41 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "31 m/s",
+      "28 m/s",
+      "56 m/s",
+      "26 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 1148 ÷ 41 = 28 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN162",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 1218 m mengambil 42 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "32 m/s",
+      "29 m/s",
+      "58 m/s",
+      "27 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 1218 ÷ 42 = 29 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN163",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 1290 m mengambil 43 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "33 m/s",
+      "30 m/s",
+      "60 m/s",
+      "28 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 1290 ÷ 43 = 30 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN164",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 1364 m mengambil 44 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "34 m/s",
+      "31 m/s",
+      "62 m/s",
+      "29 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 1364 ÷ 44 = 31 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN165",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 1440 m mengambil 45 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "35 m/s",
+      "32 m/s",
+      "64 m/s",
+      "30 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 1440 ÷ 45 = 32 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN166",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 1518 m mengambil 46 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "36 m/s",
+      "33 m/s",
+      "66 m/s",
+      "31 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 1518 ÷ 46 = 33 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN167",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 1598 m mengambil 47 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "37 m/s",
+      "34 m/s",
+      "68 m/s",
+      "32 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 1598 ÷ 47 = 34 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN168",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 1680 m mengambil 48 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "38 m/s",
+      "35 m/s",
+      "70 m/s",
+      "33 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 1680 ÷ 48 = 35 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN169",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 1764 m mengambil 49 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "39 m/s",
+      "36 m/s",
+      "72 m/s",
+      "34 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 1764 ÷ 49 = 36 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN170",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 1850 m mengambil 50 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "40 m/s",
+      "37 m/s",
+      "74 m/s",
+      "35 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 1850 ÷ 50 = 37 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN171",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 1938 m mengambil 51 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "41 m/s",
+      "38 m/s",
+      "76 m/s",
+      "36 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 1938 ÷ 51 = 38 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN172",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 2028 m mengambil 52 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "42 m/s",
+      "39 m/s",
+      "78 m/s",
+      "37 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 2028 ÷ 52 = 39 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN173",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "t": "Gerakan linear",
+    "q": "Perjalanan sejauh 2120 m mengambil 53 s termasuk hentian. Apakah laju purata bagi seluruh perjalanan?",
+    "d": "Jumlah masa yang diberi sudah termasuk masa berhenti; gunakan keseluruhan masa itu.",
+    "a": [
+      "43 m/s",
+      "40 m/s",
+      "80 m/s",
+      "38 m/s"
+    ],
+    "c": 1,
+    "e": "Laju purata = jumlah jarak ÷ jumlah masa termasuk hentian = 2120 ÷ 53 = 40 m/s.",
+    "form": 4,
+    "sp": "11.1.3",
+    "pdfPage": 110,
+    "id": "SN174",
+    "h": "Gunakan konsep dan maklumat dalam soalan.",
+    "chapter": 11
+  },
+  {
+    "id": "SN175",
+    "t": "Langkah keselamatan dalam makmal",
+    "q": "Mengapa gogal digunakan semasa eksperimen?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Melindungi mata daripada percikan",
+      "Mengukur isipadu",
+      "Memanaskan larutan",
+      "Menggantikan sarung tangan"
+    ],
+    "c": 0,
+    "e": "Gogal melindungi mata daripada percikan bahan ketika aktiviti makmal.",
+    "form": 4,
+    "sp": "1.1",
+    "pdfPage": 57,
+    "chapter": 1,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN176",
+    "t": "Langkah keselamatan dalam makmal",
+    "q": "Apakah tindakan awal apabila berlaku tumpahan merkuri?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Sentuh dengan tangan",
+      "Maklumkan kepada guru atau pembantu makmal",
+      "Buang ke sinki",
+      "Sapukan pada meja"
+    ],
+    "c": 1,
+    "e": "Maklumkan kepada guru atau pembantu makmal dan jauhi kawasan tumpahan. Merkuri perlu dikendalikan mengikut prosedur khas.",
+    "form": 4,
+    "sp": "1.2",
+    "pdfPage": 60,
+    "chapter": 1,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN177",
+    "t": "Bantuan kecemasan",
+    "q": "Apakah tujuan utama CPR?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Mengukur BMI",
+      "Merawat patah tulang",
+      "Membantu mengekalkan peredaran darah dan bekalan oksigen ketika jantung terhenti",
+      "Menambah nutrien"
+    ],
+    "c": 2,
+    "e": "CPR membantu mengekalkan peredaran darah dan oksigen sementara bantuan kecemasan diperoleh.",
+    "form": 4,
+    "sp": "2.1",
+    "pdfPage": 62,
+    "chapter": 2,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN178",
+    "t": "Bantuan kecemasan",
+    "q": "Dalam konteks pembelajaran, situasi manakah berkaitan Heimlich Maneuver?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Tercekik dengan saluran pernafasan tersumbat",
+      "Luka kecil pada jari",
+      "Sakit otot selepas berlari",
+      "Demam ringan"
+    ],
+    "c": 0,
+    "e": "Heimlich Maneuver berkaitan bantuan bagi halangan saluran pernafasan akibat tercekik; tindakan sebenar memerlukan latihan yang sesuai.",
+    "form": 4,
+    "sp": "2.2",
+    "pdfPage": 63,
+    "chapter": 2,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN179",
+    "t": "Teknik mengukur parameter kesihatan badan",
+    "q": "Alat manakah digunakan untuk mengukur tekanan darah?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Pembaris",
+      "Sfigmomanometer",
+      "Ammeter",
+      "Neraca"
+    ],
+    "c": 1,
+    "e": "Sfigmomanometer digunakan untuk mengukur tekanan darah.",
+    "form": 4,
+    "sp": "3.3",
+    "pdfPage": 65,
+    "chapter": 3,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN180",
+    "t": "Teknik mengukur parameter kesihatan badan",
+    "q": "Jisim 64 kg dan tinggi 1.6 m. Berapakah BMI?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "40 kg/m²",
+      "102.4 kg/m²",
+      "25 kg/m²",
+      "16 kg/m²"
+    ],
+    "c": 2,
+    "e": "BMI = 64 ÷ (1.6 × 1.6) = 25 kg/m².",
+    "form": 4,
+    "sp": "3.4",
+    "pdfPage": 66,
+    "chapter": 3,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN181",
+    "t": "Sokongan, pergerakan dan pertumbuhan",
+    "q": "Apakah jenis sokongan utama pada serangga?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Rangka luar",
+      "Rangka dalam",
+      "Tulang belakang",
+      "Tiada sokongan"
+    ],
+    "c": 0,
+    "e": "Serangga mempunyai rangka luar yang menyokong dan melindungi badannya.",
+    "form": 4,
+    "sp": "6.1",
+    "pdfPage": 82,
+    "chapter": 6,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN182",
+    "t": "Sokongan, pergerakan dan pertumbuhan",
+    "q": "Apakah struktur yang menyambungkan otot kepada tulang?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Ligamen",
+      "Tendon",
+      "Rawan",
+      "Cecair sinovial"
+    ],
+    "c": 1,
+    "e": "Tendon menyambungkan otot kepada tulang. Ligamen menyambungkan tulang kepada tulang.",
+    "form": 4,
+    "sp": "6.2",
+    "pdfPage": 84,
+    "chapter": 6,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN183",
+    "t": "Koordinasi badan",
+    "q": "Kelenjar manakah menghasilkan insulin?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Tiroid",
+      "Testis",
+      "Pankreas",
+      "Adrenal"
+    ],
+    "c": 2,
+    "e": "Pankreas menghasilkan insulin yang membantu mengawal aras glukosa darah.",
+    "form": 4,
+    "sp": "7.1",
+    "pdfPage": 88,
+    "chapter": 7,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN184",
+    "t": "Koordinasi badan",
+    "q": "Hormon manakah berkaitan tindak balas kecemasan badan?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Adrenalina",
+      "Insulin",
+      "Estrogen",
+      "Tiroksina"
+    ],
+    "c": 0,
+    "e": "Adrenalina daripada kelenjar adrenal menyediakan badan untuk tindak balas kecemasan.",
+    "form": 4,
+    "sp": "7.1",
+    "pdfPage": 88,
+    "chapter": 7,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN185",
+    "t": "Unsur dan bahan",
+    "q": "Atom kehilangan satu elektron. Apakah zarah yang terhasil?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Ion negatif",
+      "Ion positif",
+      "Neutron",
+      "Molekul neutral"
+    ],
+    "c": 1,
+    "e": "Kehilangan elektron menyebabkan cas positif bersih, lalu membentuk ion positif.",
+    "form": 4,
+    "sp": "8.2",
+    "pdfPage": 95,
+    "chapter": 8,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN186",
+    "t": "Unsur dan bahan",
+    "q": "Dua atom mempunyai bilangan proton sama tetapi neutron berlainan. Apakah hubungan kedua-duanya?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Unsur berlainan",
+      "Ion berlainan sahaja",
+      "Isotop unsur yang sama",
+      "Molekul air"
+    ],
+    "c": 2,
+    "e": "Isotop mempunyai nombor proton sama dan bilangan neutron berlainan.",
+    "form": 4,
+    "sp": "8.3",
+    "pdfPage": 96,
+    "chapter": 8,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN187",
+    "t": "Kimia industri",
+    "q": "Apakah yang dimaksudkan dengan aloi?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Campuran dua atau lebih unsur dengan sekurang-kurangnya satu logam",
+      "Logam tulen sahaja",
+      "Gas lengai sahaja",
+      "Larutan gula"
+    ],
+    "c": 0,
+    "e": "Aloi ialah campuran unsur yang mengandungi sekurang-kurangnya satu logam.",
+    "form": 4,
+    "sp": "9.1",
+    "pdfPage": 98,
+    "chapter": 9,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN188",
+    "t": "Kimia industri",
+    "q": "Mengapa aloi biasanya lebih keras daripada logam tulennya?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Semua atom bersaiz sama",
+      "Atom berlainan saiz mengganggu gelongsoran lapisan atom",
+      "Aloi tiada atom",
+      "Aloi sentiasa berbentuk cecair"
+    ],
+    "c": 1,
+    "e": "Atom berlainan saiz mengganggu susunan dan gelongsoran lapisan atom, menjadikan aloi biasanya lebih keras.",
+    "form": 4,
+    "sp": "9.1",
+    "pdfPage": 98,
+    "chapter": 9,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN189",
+    "t": "Kimia dalam perubatan dan kesihatan",
+    "q": "Apakah fungsi ubat analgesik?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Membekalkan oksigen",
+      "Menggantikan hormon",
+      "Melegakan kesakitan",
+      "Mengukur suhu"
+    ],
+    "c": 2,
+    "e": "Analgesik digunakan untuk melegakan kesakitan.",
+    "form": 4,
+    "sp": "10.1",
+    "pdfPage": 101,
+    "chapter": 10,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN190",
+    "t": "Kimia dalam perubatan dan kesihatan",
+    "q": "Apakah fungsi antioksida?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Membantu menghalang atau memperlahankan pengoksidaan",
+      "Meningkatkan semua pengoksidaan",
+      "Menghasilkan semua antibiotik",
+      "Menggantikan gizi seimbang"
+    ],
+    "c": 0,
+    "e": "Antioksida membantu menghalang atau memperlahankan proses pengoksidaan.",
+    "form": 4,
+    "sp": "10.2",
+    "pdfPage": 102,
+    "chapter": 10,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN191",
+    "t": "Nutrisi dan teknologi makanan",
+    "q": "Mengapa makanan dikeringkan untuk pengawetan?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Menambah air",
+      "Mengurangkan air yang diperlukan bagi pertumbuhan mikroorganisma",
+      "Menghapuskan semua nutrien",
+      "Meningkatkan kelembapan"
+    ],
+    "c": 1,
+    "e": "Pengeringan mengurangkan kandungan air dan menghalang pertumbuhan banyak mikroorganisma.",
+    "form": 5,
+    "sp": "2.5",
+    "pdfPage": 129,
+    "chapter": 2,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN192",
+    "t": "Nutrisi dan teknologi makanan",
+    "q": "Makronutrien manakah diperlukan tumbuhan untuk membina protein?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Karbon monoksida",
+      "Plastik",
+      "Nitrogen",
+      "Merkuri"
+    ],
+    "c": 2,
+    "e": "Nitrogen diperlukan untuk pembentukan protein dan pertumbuhan tumbuhan.",
+    "form": 5,
+    "sp": "2.2",
+    "pdfPage": 127,
+    "chapter": 2,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN193",
+    "t": "Kelestarian alam sekitar",
+    "q": "Apakah maksud jejak karbon?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Jumlah pelepasan gas rumah hijau berkaitan aktiviti atau produk",
+      "Bilangan kasut hitam",
+      "Jumlah oksigen dalam botol",
+      "Luas tapak tangan"
+    ],
+    "c": 0,
+    "e": "Jejak karbon merujuk pelepasan gas rumah hijau yang berkaitan dengan aktiviti atau produk.",
+    "form": 5,
+    "sp": "3.1",
+    "pdfPage": 133,
+    "chapter": 3,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN194",
+    "t": "Kelestarian alam sekitar",
+    "q": "Apakah contoh guna semula?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Membakar botol",
+      "Menggunakan balang lama sebagai bekas penyimpanan",
+      "Membuang kertas bersih",
+      "Mencampurkan semua sisa"
+    ],
+    "c": 1,
+    "e": "Menggunakan balang semula memanjangkan penggunaannya dan mengurangkan sisa.",
+    "form": 5,
+    "sp": "3.3",
+    "pdfPage": 137,
+    "chapter": 3,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN195",
+    "t": "Sebatian karbon",
+    "q": "Apakah dua unsur yang membentuk hidrokarbon?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Natrium dan klorin",
+      "Oksigen dan nitrogen",
+      "Karbon dan hidrogen",
+      "Ferum dan kuprum"
+    ],
+    "c": 2,
+    "e": "Hidrokarbon ialah sebatian yang mengandungi karbon dan hidrogen sahaja.",
+    "form": 5,
+    "sp": "5.2",
+    "pdfPage": 145,
+    "chapter": 5,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN196",
+    "t": "Sebatian karbon",
+    "q": "Apakah hasil utama penapaian glukosa oleh yis dalam keadaan anaerob?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Etanol dan karbon dioksida",
+      "Oksigen dan nitrogen",
+      "Garam dan logam",
+      "Air sahaja"
+    ],
+    "c": 0,
+    "e": "Penapaian glukosa oleh yis menghasilkan etanol dan karbon dioksida.",
+    "form": 5,
+    "sp": "5.3",
+    "pdfPage": 147,
+    "chapter": 5,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN197",
+    "t": "Cahaya dan optik",
+    "q": "Kanta manakah menumpukan sinar cahaya selari?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Kanta cekung",
+      "Kanta cembung",
+      "Kaca rata sahaja",
+      "Cermin satah sahaja"
+    ],
+    "c": 1,
+    "e": "Kanta cembung ialah kanta penumpu.",
+    "form": 5,
+    "sp": "7.1",
+    "pdfPage": 161,
+    "chapter": 7,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN198",
+    "t": "Cahaya dan optik",
+    "q": "Apakah kesan kanta cekung pada sinar cahaya selari?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Menumpukan semuanya pada satu titik nyata",
+      "Mematikan cahaya",
+      "Mencapahkan sinar",
+      "Menukar cahaya kepada bunyi"
+    ],
+    "c": 2,
+    "e": "Kanta cekung mencapahkan sinar cahaya selari.",
+    "form": 5,
+    "sp": "7.1",
+    "pdfPage": 161,
+    "chapter": 7,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN199",
+    "t": "Teknologi angkasa lepas",
+    "q": "Apakah fungsi utama GPS?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Menentukan kedudukan menggunakan isyarat satelit",
+      "Menghasilkan makanan",
+      "Mengukur pH",
+      "Menggantikan semua peta secara fizikal"
+    ],
+    "c": 0,
+    "e": "GPS menggunakan isyarat satelit untuk menentukan kedudukan penerima.",
+    "form": 5,
+    "sp": "9.2",
+    "pdfPage": 174,
+    "chapter": 9,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  },
+  {
+    "id": "SN200",
+    "t": "Teknologi angkasa lepas",
+    "q": "Apakah perigi bagi orbit satelit?",
+    "d": "Pilih jawapan paling tepat berdasarkan konsep sains.",
+    "a": [
+      "Titik paling jauh dari Bumi",
+      "Titik paling dekat dengan Bumi",
+      "Pusat Matahari",
+      "Titik tanpa graviti"
+    ],
+    "c": 1,
+    "e": "Perigi ialah kedudukan satelit yang paling dekat dengan Bumi; apogi paling jauh.",
+    "form": 5,
+    "sp": "9.1",
+    "pdfPage": 171,
+    "chapter": 9,
+    "mapping": "Standard Kandungan (SK)",
+    "h": "Fikirkan fungsi dan konsep yang diterangkan."
+  }
+]

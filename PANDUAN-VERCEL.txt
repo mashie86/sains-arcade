@@ -1,0 +1,21 @@
+SAINS ARCADE — PWA / VERCEL
+
+Folder ini projek statik lengkap. Tiada build atau npm install diperlukan untuk game.
+
+Deploy menggunakan Vercel CLI:
+1. Ekstrak ZIP dan buka terminal dalam folder yang mengandungi index.html.
+2. Jalankan: npx vercel login
+3. Jalankan: npx vercel
+4. Untuk produksi: npx vercel --prod
+Pilih framework Other jika ditanya. Tiada build command; output ialah folder projek semasa.
+
+Alternatif GitHub: upload kandungan folder ini ke repositori, kemudian import repo dalam Vercel. Framework: Other. Root directory: folder yang mengandungi index.html. Kosongkan Build Command; Output Directory: .
+
+Telefon Android: buka URL HTTPS dalam Chrome, pilih Pasang pada telefon jika butang muncul atau menu Install app / Add to Home screen.
+iPhone: buka URL dalam Safari > Share > Add to Home Screen.
+
+Offline tersedia selepas service worker selesai menyimpan aset pada lawatan pertama yang mempunyai internet. Game dan popup berhenti ketika aplikasi di latar. Kemajuan sesi belum disimpan jika aplikasi ditutup.
+
+Ujian pemasangan/offline sebenar perlu dibuat pada URL HTTPS selepas deploy; file:// tidak menyediakan service worker. Ini belum diterbitkan di Vercel.
+
+Untuk update seterusnya: deploy semula dan tukar nombor CACHE dalam sw.js (contoh v2) apabila aset berubah. Tutup semua tetingkap aplikasi lalu buka semula untuk mengaktifkan service worker baharu.
